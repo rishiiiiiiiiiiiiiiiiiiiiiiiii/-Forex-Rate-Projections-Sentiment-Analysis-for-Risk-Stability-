@@ -7,8 +7,11 @@ The forex market is a vital global financial hub enabling currency exchange and 
 ### Objective
 
 ●	Enhancing financial crisis detection and management through refined mechanisms for forecasting volatility in Euro-pegged currency exchange rates.
+
 ●	Analyzing news sentiment concerning Japan to discern its market impact, offering insights into how different news types influence market trends and deepening understanding of the complex relationship between media sentiment and market behavior.
+
 ●	Leveraging forecasting methodologies to analyze weekly historical exchange rate data from Japan, our aim is to offer actionable insights empowering stakeholders to anticipate and navigate the impacts of financial crises within the Japanese Forex market.
+
 ●	Utilizing forecasted values derived from time series analysis to evaluate inherent investment risk associated with the currency, providing a comprehensive understanding of its potential performance and risks.
 
 
