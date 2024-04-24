@@ -19,12 +19,20 @@ The forex market is a vital global financial hub enabling currency exchange and 
 ### Results and Discussions
 
 • Currencies like ARS, AZN, BDT, LYD, SDG, UAH, VEF, and VES highlight global economic challenges due to past financial crises.
+
 • News sentiment aligns with Forex rate trends: positive sentiments with spikes, negative with downturns, and neutral with stability.
+
 • SARIMAX model with significant coefficients and good fit captures data patterns, forecasting trends until 2024.
+
 • Prophet analysis shows clear long-term trends, seasonal fluctuations, and weekly patterns.
+
 • SARIMAX outperforms Prophet with lower MSE, RMSE, and MAPE, indicating superior forecast accuracy.
+
 • Risk analysis model effectively assesses currency growth dynamics over 5 and 12 weeks.
+
 • Japanese Yen's stability and consistent growth make it attractive to investors with moderate risk tolerance, offering steady long-term prospects.
+
+
 
 
 
