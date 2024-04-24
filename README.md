@@ -3,22 +3,25 @@
 
 ### Introduction
 
-The foreign exchange (forex) market is a crucial element of the global financial landscape, facilitating currency exchange and determining exchange rates that underpin international trade and economic activities. This project delves into the complexities of the forex market, leveraging data spanning from August 2004 and encompassing approximately 170 currencies. The dataset's growth is influenced by geopolitical shifts, national monetary policies, and advancements in data collection methods.
-
+The forex market is a vital global financial hub enabling currency exchange and rate determination, pivotal for international trade and investments. Data since August 2004, covering 170 currencies, has grown due to geopolitics, monetary policies, and evolving data methods. New nations and policy reforms introduce currencies, affecting rates and market dynamics. Improved data techniques unveil new currencies, expanding insights into forex trends. Analyzing exchange rates, currency availability, and market sentiments aids decision-making for policymakers, investors, and market participants, enhancing forex market understanding and effectiveness.
 ### Objective
 
-The project aims to enhance financial crisis detection and management by refining volatility forecasting mechanisms for Euro-pegged currency exchange rates. Additionally, it delves into sentiment analysis concerning Japan to understand its market impact, exploring various news types' influence on market trends. Leveraging forecasting methodologies, the project provides actionable insights for navigating financial crises within the Japanese Forex market.
+●	Enhancing financial crisis detection and management through refined mechanisms for forecasting volatility in Euro-pegged currency exchange rates.
+●	Analyzing news sentiment concerning Japan to discern its market impact, offering insights into how different news types influence market trends and deepening understanding of the complex relationship between media sentiment and market behavior.
+●	Leveraging forecasting methodologies to analyze weekly historical exchange rate data from Japan, our aim is to offer actionable insights empowering stakeholders to anticipate and navigate the impacts of financial crises within the Japanese Forex market.
+●	Utilizing forecasted values derived from time series analysis to evaluate inherent investment risk associated with the currency, providing a comprehensive understanding of its potential performance and risks.
 
-### Methodology
 
-The project employs a multifaceted approach, including historical data analysis, sentiment analysis through web scraping of news articles, and forecasting using SARIMAX and FBPROPHET models. It also integrates risk analysis models to evaluate investment risks associated with the Japanese Yen (JPY) over different time horizons.
 
 ### Results and Discussions
 
-The analysis reveals insights into currency stability, anomalies, and instabilities within the forex market, offering a nuanced understanding of economic dynamics. Sentiment analysis showcases sentiment variations' impact on exchange rates, providing valuable insights for market participants. Forecasting models demonstrate accuracy in predicting exchange rate trends, aiding in informed decision-making. Risk analysis models offer comprehensive metrics for assessing investment risks associated with the JPY.
+• Currencies like ARS, AZN, BDT, LYD, SDG, UAH, VEF, and VES highlight global economic challenges due to past financial crises.
+• News sentiment aligns with Forex rate trends: positive sentiments with spikes, negative with downturns, and neutral with stability.
+• SARIMAX model with significant coefficients and good fit captures data patterns, forecasting trends until 2024.
+• Prophet analysis shows clear long-term trends, seasonal fluctuations, and weekly patterns.
+• SARIMAX outperforms Prophet with lower MSE, RMSE, and MAPE, indicating superior forecast accuracy.
+• Risk analysis model effectively assesses currency growth dynamics over 5 and 12 weeks.
+• Japanese Yen's stability and consistent growth make it attractive to investors with moderate risk tolerance, offering steady long-term prospects.
 
-### Conclusion
-
-This project contributes to the understanding of forex market dynamics, sentiment-driven fluctuations, and risk assessment strategies, empowering stakeholders with actionable insights for effective decision-making in the global financial landscape.
 
 
