@@ -33,6 +33,9 @@ The forex market is a vital global financial hub enabling currency exchange and 
 • Japanese Yen's stability and consistent growth make it attractive to investors with moderate risk tolerance, offering steady long-term prospects.
 
 
+### Presentation:
+
+https://www.canva.com/design/DAGC1xh0qD8/k3bNnzCZJotUptqi_2H6hQ/edit?utm_content=DAGC1xh0qD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
